@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 known_chains = {
     "BTS": {
-        "chain_id": "4018d7844c78f6a6c41c6a552b898022310fc5dec06da467ee7905a8dad512c8",
+        "chain_id": "b8fe9dca0329b8b122e1dd2cf9e2d937511227ce84683d8aa036d3083af92a71",
         "core_symbol": "BTS",
         "prefix": "BTS",
     },
